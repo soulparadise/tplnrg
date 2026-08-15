@@ -2,3 +2,10 @@
   background: #ffe7a8;
   color: #d88a00;
 }
+
+.brand-logo {
+  width: 70px;
+  height: 70px;
+  flex: 0 0 70px;
+  object-fit: contain;
+}
